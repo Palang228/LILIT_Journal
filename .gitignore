@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+venv/
+pip-pip.py
+requirements.txt
+_init_.py
